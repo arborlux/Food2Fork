@@ -1,0 +1,16 @@
+{
+  "name": "food2forkapp",
+  "version": "1.0.0",
+  "description": "Uses the express framework to retrieve recipes based on user-submitted ingredients.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Patrick Griffith",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
