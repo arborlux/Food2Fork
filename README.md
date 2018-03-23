@@ -38,6 +38,8 @@ Recipe data can also be obtained though a GET request by including recipes?ingre
 http://localhost:3000/recipes?ingredients=Basil,Cumin
 ```
 
+![alt photo](https://github.com/arborlux/Food2Fork/blob/master/images/Capture.PNG)
+
 ## Tested On
 
 Application tested using Node.js v9.4.0 on Windows 10 Pro v1709 64-bit and Google Chrome v64.0.3282.186
